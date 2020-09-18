@@ -11,6 +11,6 @@ public class FacebookLoginTestCase extends TestBase {
 
         facebookLoginPage.setEmail("sabab.ndc@gmail.com");
         facebookLoginPage.setPass("wrongPass");
-        facebookLoginPage.clickLoginButton();
+        //facebookLoginPage.clickLoginButton();
     }
 }
